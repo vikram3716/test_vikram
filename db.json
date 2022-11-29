@@ -1,92 +1,61 @@
 {
     "products": [
       {
-        "id": 1,
-        "title": "Bloodworth",
-        "gender": "female",
-        "price": 3978,
-        "category": "saree",
-        "image": "https://picsum.photos/200"
+        "id": "1",
+        "img": "https://cdn11.bigcommerce.com/s-9p889rxpkb/images/stencil/800w/products/300/1141/lemonsage_body_butter_sku_1003_10000_01__74065.1668812297.jpg",
+        "name": "Lemon & Sage Body Butter",
+        "description": "Lemon Sage Maximum Moisture Cream",
+        "price": "80"
       },
       {
-        "id": 2,
-        "title": "Tomik",
-        "gender": "female",
-        "price": 2198,
-        "category": "jacket",
-        "image": "https://picsum.photos/200"
+        "id": "2",
+        "img": "https://cdn11.bigcommerce.com/s-9p889rxpkb/images/stencil/800w/products/347/991/lemon_sage_conditioner_pro_1_sku_1007_70101_01__64566.1667516926.jpg",
+        "name": "Lemon & Sage Conditioning Rinse",
+        "description": "Hydrating Conditioner for Dry Hair",
+        "price": "78"
       },
       {
-        "id": 3,
-        "title": "Pauley",
-        "gender": "male",
-        "price": 933,
-        "category": "jacket",
-        "image": "https://picsum.photos/200"
+        "id": "3",
+        "img": "https://cdn11.bigcommerce.com/s-9p889rxpkb/images/stencil/800w/products/296/975/grapefruitaloe_body_butter_sku_1003_10002_01__05959.1669400272.jpg",
+        "name": "Grapefruit & Aloe Body Butter",
+        "description": "Grapefruit Maximum Moisture Cream",
+        "price": "52"
       },
       {
-        "id": 4,
-        "title": "Edgerley",
-        "gender": "female",
-        "price": 4286,
-        "category": "shirt",
-        "image": "https://picsum.photos/200"
+        "id": "4",
+        "img": "https://cdn11.bigcommerce.com/s-9p889rxpkb/images/stencil/800w/products/346/1029/lemonsage_shampoo_pro_sku_1007_70100_01__93646.1667516757.jpg",
+        "name": "Lemon & Sage Supershine Shampoo",
+        "description": "",
+        "price": "90"
       },
       {
-        "id": 5,
-        "title": "Featherstonhaugh",
-        "gender": "female",
-        "price": 2853,
-        "category": "shirt",
-        "image": "https://picsum.photos/200"
+        "id": "5",
+        "img": "https://cdn11.bigcommerce.com/s-9p889rxpkb/images/stencil/800w/products/309/1174/BLISS_Naked_Body_Butter_200mlxNEWTUBE__70211.1669400304.jpg",
+        "name": "Naked Body Butter Unscented Moisturizer",
+        "description": "Maximum Fragrance Free Moisture Cream",
+        "price": "80"
       },
       {
-        "id": 6,
-        "title": "Busek",
-        "gender": "female",
-        "price": 4687,
-        "category": "shirt",
-        "image": "https://picsum.photos/200"
+        "id": "6",
+        "img": "https://cdn11.bigcommerce.com/s-9p889rxpkb/images/stencil/800w/products/303/989/lemonsage_soapy_suds_sku_1003_10020_01__20984.1667516619.jpg",
+        "name": "Lemon & Sage Soapy Suds Body Wash",
+        "description": "Lemon Sage Body Wash with Aloe",
+        "price": "62"
       },
       {
-        "id": 7,
-        "title": "Myrie",
-        "gender": "male",
-        "price": 2684,
-        "category": "shirt",
-        "image": "https://picsum.photos/200"
+        "id": "7",
+        "img": "https://cdn11.bigcommerce.com/s-9p889rxpkb/images/stencil/800w/products/311/1006/poetic_waxing_sku_1003_10040_01__21989.1667517470.jpg",
+        "name": "Poetic Waxing At Home Wax Kit",
+        "description": "Straight-from-the-spa Hair Removal Kit",
+        "price": "75"
       },
       {
-        "id": 8,
-        "title": "Doxey",
-        "gender": "male",
-        "price": 4727,
-        "category": "salwar",
-        "image": "https://picsum.photos/200"
-      },
-      {
-        "id": 9,
-        "title": "Ivons",
-        "gender": "male",
-        "price": 1243,
-        "category": "trouser",
-        "image": "https://picsum.photos/200"
-      },
-      {
-        "id": 10,
-        "title": "Markel",
-        "gender": "male",
-        "price": 1353,
-        "category": "jacket",
-        "image": "https://picsum.photos/200"
-      },
-      {
-        "title": "Twills",
-        "gender": "female",
-        "price": "900",
-        "category": "t-shirts",
-        "image": "https://picsum.photos/200",
-        "id": 11
+        "id": "8",
+        "img": "https://cdn11.bigcommerce.com/s-9p889rxpkb/images/stencil/800w/products/285/960/bloodorangewhitepepper_body_butter_sku_1003_10003_01__81918.1669400279.jpg",
+        "name": "Blood Orange & White Pepper Body Butter",
+        "description": "Maximum Orange Moisture Cream",
+        "price": "68"
       }
     ]
+    
   }
